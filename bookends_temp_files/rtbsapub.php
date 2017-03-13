@@ -1,0 +1,2 @@
+window.advBidxc.rtbsresponse({
+"445548512" :{"bl":[{"bidder_id":43,"ext_placement_code":"538659094","no_bid":true,"logging_pixels":[],"og_bid":0.0,"bidderInfoBean":{"responseTime":90,"dataCenter":"east","serverId":"RTB-nv-s-9","category":[],"prvAccId":"538659094"},"fb":false,"uid":"958d7f86-fbcf-4cee-6b82-5f1aaf35540f","publisher_id":"537145107","nbc":3,"at":"O","mnet_id":"445548512","size":"728x90","cs":"1"}]}})
